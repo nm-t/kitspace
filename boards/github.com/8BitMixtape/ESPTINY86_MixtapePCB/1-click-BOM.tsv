@@ -1,0 +1,20 @@
+References	Qty	Description	Manufacturer	MPN	Digikey	Mouser	RS	Newark	Farnell
+R1	1	22K 1206	Yageo	RC1206FR-0722KL	311-22.0KFRCT-ND	603RC1206FR0722KL			
+R2	1	22K 1206	Yageo	RC1206FR-0722KL	311-22.0KFRCT-ND	603RC1206FR0722KL			
+R3	1	22K 1206	Yageo	RC1206FR-0722KL	311-22.0KFRCT-ND	603RC1206FR0722KL			
+R4	1	22K 1206	Yageo	RC1206FR-0722KL	311-22.0KFRCT-ND	603RC1206FR0722KL			
+R5	1	1K 1206	Yageo	RC1206FR-071KL	311-1.00KFRCT-ND	603RC1206FR071KL			
+R6	2	1K 1206	Yageo	RC1206FR-071KL	311-1.00KFRCT-ND	603RC1206FR071KL			
+IC1	1	CMOS 4051							
+IC2	1	PT8211							
+D1 mini Pro	1	D1 mini Pro ESP8266 dev board							
+LED Power (red)	1	TOP-led (3528 package)	Kingbright	AA3528SURSK	754-1537-1-ND	604AA3528SURSK			
+LED Signal (blue)	1	TOP-led (3528 package)	Kingbright	AA3528QBS/D		604AA3528QBS/D			
+Pot	2	10k lin Potentiometer, 16mm (6mm shaft dia, 15mm shaft length)	BI Technologies / TT Electronics	P160KN-0QC15B10K		858P160KN0QC15B10K			
+Pot-Wheel	2	10k lin Wheel Potentiometer							
+NEO pixel	1	NEO pixel 10-pack (SK6812)	Adafruit	1655		4851655			
+Jack1	2	Mini-Jack female 3.5mm	CUI	SJ1-3525NG		490SJ13525NG			
+But1	2	Tactile Switches	TE Connectivity / Alcoswitch	1571621-1		50615716211			
+SW1	1	Push Switch							
+Jack3	2	Mini-Jack female 3.5mm							
+Knob	2	from Taide							

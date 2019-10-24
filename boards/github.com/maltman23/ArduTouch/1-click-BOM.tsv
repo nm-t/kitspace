@@ -1,0 +1,28 @@
+References	Qty	Description	Manufacturer	MPN	Manufacturer	MPN	Digikey	Mouser	RS	Newark	Farnell
+B1	1	3xAA battery holder w/ leads, w/ switch	Jameco	SBH-331-AS-R	BusBoard	PW-3AA		854PW3AA			
+C1, C2, C4, C5	4	0.1uF, 50V, ceramic, 0.1" spacing leads	Vishay / BC Components	K104K15X7RF53L2				594K104K15X7RF53L2			
+C3, C8	2	100uF, 16V or higher, electrolytic, radial, 0.1" spacing leads	Cornell Dubilier - CDE	107CKS016M				598107CKS016M			
+C6, C7	2	1uF, 16V or higher, electrolytic, radial, 0.1" spacing leads	Illinois Capacitor / CDE	105CKR050M				598105CKR050M			
+J1	1	1x6, right-angle (FTDI)	FCI	68016-106HLF				64968016106HLF			
+J3	1	headphone, stereo, 3.5mm, switched	Kycon	STX-3120-5B-284C				806STX31205B284C			
+LED1	1	Blue LED, 5mm	Cree	C5SMF-BJF-CR0U0351				941C5SMFBJFCR0U0351			
+LED2	1	Red LED, 5mm	Cree	C5SMF-RJF-CT0W0BB1				941C5SMFRJFCT0W0BB1			
+LED3	1	Green LED, 5mm	Cree	C5SMF-GJF-CV0Y0791				941C5SMFGJFCV0Y0791			
+R1	1	10K, 1/4W, 5%	Jameco	CF1/4W103JRC	Vishay	CCF0710K0JKE36		71CCF0710K0JKE36			
+R2, R3, R4, R5	4	22M, 1/4W, 5%	KOA Speer	CF1/4C226J				660CF1/4C226J			
+R6, R7	2	270, 1/4W, 5%	Jameco	CF1/4W271JRC	Ohmite	OD271JE		588OD271JE			
+R8, R9	2	4.7K, 1/4W, 5%	Jameco	CF1/4W472JRC	Vishay	CCF074K70JKE36		71CCF07J4.7KE3			
+R10	1	10K trim pot (screwdriver adjust - Volume)	Bourns	3319P-1-103				6523319P1103			
+R11, R12	2	10K trim pot (knob adjust)	BI Technologies / TT Electronics	72PTR10KLF				85872PTR10KLF			
+R13, R14, R15	3	1K, 1/4W, 5%	Jameco	CF1/4W102JRC	Vishay	CCF071K00JKE36		71CCF071K00JKE36			
+S1	1	SPST tact switch, 4-pin, Black button (Reset)	ALPS	SKHHAKA010				688SKHHAK			
+S2, S3	2	SPST tact switch, 4-pin, Red button	ALPS	SKHHAQA010				688SKHHAQ			
+SPKR1	1	40mm diameter speaker, 3W, 4 Ohm	PUI Audio	AS04004PR-R				665AS04004PRR			
+U1	1	ATmega328P-PU	Atmel	ATMEGA328P-PU				556ATMEGA328PPU			
+U2	1	NJM386BD	NJR	NJM386BD				513NJM386BD			
+X1	1	16.0MHz ceramic resonator	Murata Electronics	CSTLS16M0X55Z-A0				81CSTLS16M0X55ZA0			
+PCB	1	PCB									
+U1 socket	1	28-pin DIP socket	Jameco	6000-28NDW	TE Connectivity	1-2199298-9		81CSTLS16M0X55ZA0			
+small bag	1	7x10cm reclosable plastic bag									
+large bag	1	15x22cm reclosable plastic bag									
+label	1										
